@@ -1,0 +1,21 @@
+
+{
+    "ORD101": {
+        "customer": "Rahul",
+        "product": "Wireless Headphones",
+        "status": "Shipped",
+        "expected_delivery": "2026-11-20"
+    },
+    "ORD102": {
+        "customer": "Amit",
+        "product": "Smart Watch",
+        "status": "Processing",
+        "expected_delivery": "2026-11-22"
+    },
+    "ORD103": {
+        "customer": "Priya",
+        "product": "Laptop Stand",
+        "status": "Delivered",
+        "expected_delivery": "2026-11-15"
+    }
+}

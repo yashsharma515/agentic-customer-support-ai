@@ -1,0 +1,27 @@
+
+
+Company: SmartShop
+
+FAQ 1:
+Question: How can I check my order status?
+Answer: Customers can check their order status by providing their Order ID.
+
+FAQ 2:
+Question: What should I do if my product is damaged?
+Answer: Customers should report the damaged product to customer support. A support ticket can be created for further assistance.
+
+FAQ 3:
+Question: How can I request a refund?
+Answer: Customers can request a refund by providing their Order ID. Refund eligibility must be checked according to the refund policy.
+
+Refund Policy:
+1. Under this demo policy, an order must be Delivered to be eligible for a refund eligibility review.
+2. Orders that are still Processing are not eligible for a refund under this demo policy.
+3. Refund eligibility does not mean that a refund has been approved or processed.
+4. Customers should contact support if they need further assistance.
+
+Delivery Policy:
+1. The expected delivery date is available in the order information.
+2. If an order is delayed, customers can contact support for assistance.
+
+
